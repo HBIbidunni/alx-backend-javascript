@@ -49,3 +49,8 @@ Here is an overview of the project tasks:
 | 7          | Load balancer                           | Creating a simple load balancer using Promises to simulate asynchronous task execution.          |
 | 8          | Throw error / try catch                 | Practicing error handling with Promises using try...catch blocks.      |
 | 9          | Throw an error                          | Creating a function that throws an error with a specific message.     |
+
+
+## Author :black_nib:
+
+- **Oyindamola Ibis** - [HBIbidunni](https:///github.com/HBIbidunni)
