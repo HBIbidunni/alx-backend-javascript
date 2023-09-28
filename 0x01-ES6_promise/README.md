@@ -36,9 +36,9 @@ This project consists of a series of tasks, each focused on a specific aspect of
 Here is an overview of the project tasks:
 
 
-| | Project | Description |
-|:--- | :--- | :---|
 
+|----|      Project       |                                         Description                                                         |
+|----|--------------------|-------------------------------------------------------------------------------------------------------------|
 | 0. |`Promise me a vow`: | Introduction to creating and using Promises. You'll create a Promise and use the resolve and reject methods.|
 
 | 1. |`Some promise`: | Implementing a simple function that returns a resolved Promise with a given value.|
