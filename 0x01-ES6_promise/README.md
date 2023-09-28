@@ -37,29 +37,18 @@ Here is an overview of the project tasks:
 
 
 
-|----|      Project       |                                         Description                                                         |
-|----|--------------------|-------------------------------------------------------------------------------------------------------------|
-| 0. |`Promise me a vow`: | Introduction to creating and using Promises. You'll create a Promise and use the resolve and reject methods.|
-
-| 1. |`Some promise`:     | Implementing a simple function that returns a resolved Promise with a given value.                          |
-
-| 2. |`Reject me not`:    | Creating a function that returns a rejected Promise with a custom error message.                            |
-
-| 3. |`Handle multiple successful Promises`: | Demonstrating how to use Promise.all() to handle multiple Promises and collect their results.|
-
-| 4. |`Simple promise`: | Creating a function that returns a resolved Promise with a delayed value.|
-
-| 5. |`Reject the promises`: | Implementing a function that returns a rejected Promise with a specified delay.|
-
-| 6. |`Handle multiple Promises`: | Creating a function that takes an array of Promises and
-returns a Promise that resolves with an array of resolved values or rejects with the first encountered error.|
-
-| 7. |`Load balancer`: | Creating a simple load balancer using Promises to simulate asynchronous task execution.|
-
-| 8. |`Throw error / try catch`: | Practicing error handling with Promises using try...catch blocks.|
-
-| 9. |`Throw an error`: | Creating a function that throws an error with a specific message.|
-
+| No         | Project Task                                | Description                                                           |
+|------------|-----------------------------------------|-----------------------------------------------------------------------|
+| 0          | Promise me a vow                        | Introduction to creating and using Promises. You'll create a Promise and use the resolve and reject methods.                          |
+| 1          | Some promise                            | Implementing a simple function that returns a resolved Promise with a given value.                |
+| 2          | Reject me not                           | Creating a function that returns a rejected Promise with a custom error message.                  |
+| 3          | Handle multiple successful Promises      | Demonstrating how to use Promise.all() to handle multiple Promises and collect their results.     |
+| 4          | Simple promise                          | Creating a function that returns a resolved Promise with a delayed value.                           |
+| 5          | Reject the promises                      | Implementing a function that returns a rejected Promise with a specified delay.                     |
+| 6          | Handle multiple Promises                 | Creating a function that takes an array of Promises and returns a Promise that resolves with an array of resolved values or rejects with the first encountered error. |
+| 7          | Load balancer                           | Creating a simple load balancer using Promises to simulate asynchronous task execution.          |
+| 8          | Throw error / try catch                 | Practicing error handling with Promises using try...catch blocks.      |
+| 9          | Throw an error                          | Creating a function that throws an error with a specific message.     |
 
 ## Author :fountain_pen:
 
