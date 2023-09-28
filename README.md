@@ -10,9 +10,7 @@ This __repository__ hosts a collection of programs and scripts primarily crafted
 | [0x02. Unveiling ES6 Classes ](./0x02-ES6_classes) | A fascinating introduction to the world of input/output streams in Linux |
 | [0x03. ES6 Data Magic ](./0x03-ES6_data_manipulation) | Skillful implementation of aliases and environmental variables |
 | [0x04. TypeScript Unleashed ](./0x04-TypeScript) | Elevated scripting mastery, featuring loops and conditionals |
-|  |  |
-|  |  |
-|  |  |
+
 
 ## Author
 
