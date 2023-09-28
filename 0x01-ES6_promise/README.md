@@ -55,4 +55,3 @@ returns a Promise that resolves with an array of resolved values or rejects with
 8. `Throw error / try catch`: Practicing error handling with Promises using try...catch blocks.
 
 9. `Throw an error`: Creating a function that throws an error with a specific message.
-
