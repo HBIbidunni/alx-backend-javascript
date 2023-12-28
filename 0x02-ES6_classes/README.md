@@ -1,4 +1,4 @@
-# ES6 classes -The ALX Project
+# ES6 classes - The ALX Project
 ----------
 
 This project focuses on understanding and implementing __ES6 classes__ in `JavaScript`. 
