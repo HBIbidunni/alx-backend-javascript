@@ -3,7 +3,7 @@
 
 This project __ES6 Promises__, is part of the curriculum at __ALX__ and  it focuses on
 the concept and usage of `Promises` in __JavaScript__, specifically as implemented in __ES6 (ECMAScript 2015)__.
-Promises are a fundamental aspect of asynchronous programming in JavaScript,
+__Promises__ are a fundamental aspect of asynchronous programming in __JavaScript__,
 providing a way to work with asynchronous operations more effectively and handle their outcomes in a structured manner.
 
 In this project, the goal is to create and work with `Promises`, understand their __syntax and methods__,
